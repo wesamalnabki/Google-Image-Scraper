@@ -1,6 +1,6 @@
 
 # Google Image Scraper
-Image scraper for Google Image to collect images from their official websites (Python3 and Selenim)
+Image scraper for Google Image to collect images from their official websites (Python3 and Selenium)
 
 This code is used to scrap images from Google Image. Typical image scrapers query a keyword in Google Image and download the result images. However, this technique returns a small image size without their original names. 
 
